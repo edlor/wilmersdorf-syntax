@@ -1,0 +1,15 @@
+{
+  "name": "wilmersdorf-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Port of the Wilmersdorf Emacs theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/edlor/wilmersdorf-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
